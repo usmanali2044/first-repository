@@ -1,3 +1,3 @@
 # first-repository
-first git repository
-Autor-Usman Ali
+ MY First git repository
+Author-Usman-Ali
